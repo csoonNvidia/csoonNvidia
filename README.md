@@ -5,7 +5,7 @@ If you're waiting for a review from me, please reach out to me via Slack / email
 Thanks!
 
 csoon
-
+Internal Nvidia site (requires being in Nvidia VPN to access): http://10.69.169.55:1234/index.html
 
 <!--
 **csoonNvidia/csoonNvidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
