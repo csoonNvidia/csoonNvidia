@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi Nvidia co-workers 👋
+
+I get lots of auto-review emails from Github and may miss them. 
+If you're waiting for a review from me, please reach out to me via Slack / email. 
+Thanks!
+
+csoon
+
 
 <!--
 **csoonNvidia/csoonNvidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
