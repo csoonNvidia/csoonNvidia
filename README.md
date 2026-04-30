@@ -2,9 +2,9 @@
 
 I get lots of auto-review emails from Github and may miss them. 
 If you're waiting for a review from me, please reach out to me via Slack / email. 
+
 Thanks!
 
-Code Review: 
 ![alt text](https://github.com/csoonNvidia/csoonNvidia/blob/main/reviewCodeMeme.png "Code Review")
 
 csoon
