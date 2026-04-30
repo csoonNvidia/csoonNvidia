@@ -7,9 +7,9 @@ Thanks!
 csoon
 Internal Nvidia site (requires being in Nvidia VPN to access this private IP): http://10.69.169.55:1234/index.html
 
-![alt text][logo]
+Code Review: 
+![alt text](https://github.com/csoonNvidia/csoonNvidia/blob/main/reviewCodeMeme.png "Code Review")
 
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/csoonNvidia/csoonNvidia/blob/main/reviewCodeMeme.png) "CodeReview"
 
 
 <!--
