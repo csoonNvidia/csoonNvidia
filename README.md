@@ -1,6 +1,6 @@
 ## Hi Nvidia co-workers 👋
 
-I get lots of auto-review emails from Github and may miss them. 
+I get lots of auto-review emails from Github and may have auto-filtered them so I may miss them. 
 If you're waiting for a review from me, please reach out to me via Slack / email. 
 
 Thanks!
