@@ -8,7 +8,7 @@ Thanks!
 ![alt text](https://github.com/csoonNvidia/csoonNvidia/blob/main/reviewCodeMeme.png "Code Review")
 
 csoon
-Internal Nvidia site (requires being in Nvidia VPN to access this private IP): http://10.69.169.55:1234/index.html
+Internal Nvidia site (requires being in Nvidia VPN to access this private IP): http://csoon.nvidia.com:1234/index.html
 
 <!--
 **csoonNvidia/csoonNvidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
