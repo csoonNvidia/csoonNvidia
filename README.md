@@ -9,6 +9,7 @@ Thanks!
 
 csoon
 Internal Nvidia site (requires being in Nvidia VPN to access this private IP): http://csoon.nvidia.com:1234/index.html
+note: If you still can't access it with VPN, it means I've temporarily shut down the server. 
 
 <!--
 **csoonNvidia/csoonNvidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
